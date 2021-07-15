@@ -1,0 +1,46 @@
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Properties.Resources.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\RestCsharp.exe
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\RestCsharp.pdb
+E:\Proyectos en Csharp\RestCsharp\bin\Debug\UIDC.dll
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.CONEXION.CONEXION_MANUAL.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.Configuraciones.Menu_de_configuraciones.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.Login.LoginForm.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.Mesas_salones.Agregar_mesa_ok.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.Mesas_salones.Configurar_mesas_ok.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.Mesas_salones.Salones.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.PRODUCTOS.Grupos_De_productos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.PRODUCTOS.Productos_rest.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.PRODUCTOS.Registro_de_productos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.PUNTO_DE_VENTA.MostradorProductos.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.PUNTO_DE_VENTA.Punto_de_venta.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.MODULOS.PUNTO_DE_VENTA.Visor_de_mesas.resources
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.exe
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.pdb
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csprojAssemblyReference.cache
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.csproj.CopyComplete
+E:\Proyectos en Csharp\RestCsharp\obj\Debug\RestCsharp.Presentacion.Usuarios.UsuariosOk.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\bin\Debug\RestCsharp.exe
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\bin\Debug\RestCsharp.pdb
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\bin\Debug\UIDC.dll
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.csprojAssemblyReference.cache
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.CONEXION.CONEXION_MANUAL.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.Configuraciones.Menu_de_configuraciones.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.Login.LoginForm.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.Mesas_salones.Agregar_mesa_ok.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.Mesas_salones.Configurar_mesas_ok.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.Mesas_salones.Salones.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.PRODUCTOS.Grupos_De_productos.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.PRODUCTOS.Productos_rest.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.PRODUCTOS.Registro_de_productos.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.PUNTO_DE_VENTA.MostradorProductos.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.PUNTO_DE_VENTA.Punto_de_venta.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.MODULOS.PUNTO_DE_VENTA.Visor_de_mesas.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.Presentacion.Usuarios.UsuariosOk.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.Properties.Resources.resources
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.csproj.GenerateResource.cache
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.csproj.CoreCompileInputs.cache
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.csproj.CopyComplete
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.exe
+F:\Proyectos web\RestCsharp_09_ago_2020\RestCsharp\obj\Debug\RestCsharp.pdb
